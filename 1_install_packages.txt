@@ -1,0 +1,11 @@
+# conda create -n rgan python=3.6
+# activate rgan
+# conda install jupyter
+# conda install pytorch torchvision cudatoolkit=10.2 -c pytorch
+# pip install torchsummary
+# pip install matplotlib
+# conda install nb_conda_kernels
+# pip install ipykernel
+# python -m ipykernel install --user --name rgan --display-name "rgan"
+# pip install pyntcloud
+# pip install tqdm
